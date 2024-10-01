@@ -14,19 +14,27 @@ Steps:
 
 1. Clone the Repository:
 
-```bash: git clone https://github.com/egsablin/sablin-javascript.git```
+```bash
+git clone https://github.com/egsablin/sablin-javascript.git
+```
 
 2. Navigate to the Project Directory:
 
-```bash: cd sablin-javascript```
+```bash
+cd sablin-javascript
+```
 
 3. Install Dependencies:
 
-```bash: npm install```
+```bash
+npm install
+```
 
 4. Run Application
 
-```bash: node app.js```
+```bash
+node app.js
+```
 
 ## Task #2 Answer the questions
 

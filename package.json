@@ -1,0 +1,23 @@
+{
+  "name": "sablin-javascript",
+  "version": "1.0.0",
+  "description": "Task for Anderson Trainee Program",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egsablin/sablin-javascript.git"
+  },
+  "author": "Evgenii Sablin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egsablin/sablin-javascript/issues"
+  },
+  "homepage": "https://github.com/egsablin/sablin-javascript#readme",
+  "dependencies": {
+    "inquirer": "^11.1.0"
+  },
+  "type": "module"
+}
